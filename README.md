@@ -4,3 +4,6 @@ California school board has collected data regarding the students attending thei
 ## Tools
 Microsoft Power BI,Excel
 
+## Result
+Results of the descriptive data analysis can be found on the file 'California School Board Project_Reeba'
+
