@@ -1,9 +1,9 @@
 # California-School-Board-Project
-California school board has collected data regarding the students attending their schools. They want to find patterns and trends in their raw data that can be used later to make informed decisions.
+California school board has collected data regarding the students who attended their schools in the academic year 2016-17. They want to find patterns and trends in their raw data that can be used later to make informed decisions.
 
 ## Tools
-Microsoft Power BI,Excel
+Python,Microsoft Power BI,and Excel
 
 ## Result
-Results of the descriptive data analysis can be found on the file 'California School Board Project_Reeba'
+Results of the descriptive data analysis can be found in the file 'California School Board Project_Reeba'
 
