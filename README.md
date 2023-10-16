@@ -1,4 +1,6 @@
 # California-School-Board-Project
+View this project on : https://mavenanalytics.io/project/8995
+
 California school board has collected data regarding the students who attended their schools in the academic year 2016-17. They want to find patterns and trends in their raw data that can be used later to make informed decisions.
 
 ## Tools
